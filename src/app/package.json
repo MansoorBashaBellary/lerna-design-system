@@ -1,6 +1,6 @@
 {
   "name": "@mansoorbashabellary/mds-components",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "UNLICENSED",
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -26,8 +26,8 @@
     "vue": "^2.6.10"
   },
   "devDependencies": {
-    "@mansoorbashabellary/mds-accordion": "^1.0.1",
-    "@mansoorbashabellary/mds-tabs": "^1.0.1",
+    "@mansoorbashabellary/mds-accordion": "^1.0.2",
+    "@mansoorbashabellary/mds-tabs": "^1.0.2",
     "@vue/cli-plugin-babel": "^3.8.0",
     "@vue/cli-plugin-eslint": "^3.8.0",
     "@vue/cli-service": "^3.8.0",
