@@ -1,0 +1,16 @@
+47 error Error: Command failed: git commit -F /private/var/folders/xc/m8zvd3gs0k504sbd5mrsx81xnkj3zd/T/a1b9cd89-b2f9-430b-9aef-75f001a2c098/lerna-commit.txt
+47 error internal/modules/cjs/loader.js:584
+47 error     throw err;
+47 error     ^
+47 error
+47 error Error: Cannot find module '/Users/mbellary/Desktop/lerna-design-system/node_modules/yorkie/src/runner.js'
+47 error     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:582:15)
+47 error     at Function.Module._load (internal/modules/cjs/loader.js:508:25)
+47 error     at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+47 error     at startup (internal/bootstrap/node.js:283:19)
+47 error     at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+47 error
+47 error pre-commit hook failed (add --no-verify to bypass)
+47 error
+47 error     at makeError (/usr/local/lib/node_modules/lerna/node_modules/execa/index.js:174:9)
+47 error     at Promise.all.then.arr (/usr/local/lib/node_modules/lerna/node_modules/execa/index.js:278:16)
