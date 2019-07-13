@@ -22,13 +22,13 @@
     "url": "https://github.com/MansoorBashaBellary/lerna-design-system/issues"
   },
   "dependencies": {
+    "@mansoorbashabellary/mds-accordion": "^1.0.2",
+    "@mansoorbashabellary/mds-tabs": "^1.0.2",
     "core-js": "^2.6.5",
     "design-system": "2.5.0",
     "vue": "^2.6.10"
   },
   "devDependencies": {
-    "@mansoorbashabellary/mds-accordion": "^1.0.2",
-    "@mansoorbashabellary/mds-tabs": "^1.0.2",
     "@vue/cli-plugin-babel": "^3.8.0",
     "@vue/cli-plugin-eslint": "^3.8.0",
     "@vue/cli-service": "^3.8.0",
