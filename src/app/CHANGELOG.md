@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.7](https://github.com/MansoorBashaBellary/lerna-design-system/compare/@mansoorbashabellary/mds-components@1.0.6...@mansoorbashabellary/mds-components@1.0.7) (2019-07-13)
+
+
+### Bug Fixes
+
+* console1 ([5fc61c3](https://github.com/MansoorBashaBellary/lerna-design-system/commit/5fc61c3))
+
+
+
+
+
 ## [1.0.6](https://github.com/MansoorBashaBellary/lerna-design-system/compare/@mansoorbashabellary/mds-components@1.0.3...@mansoorbashabellary/mds-components@1.0.6) (2019-07-13)
 
 
