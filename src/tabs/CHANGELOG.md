@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.4](https://github.com/MansoorBashaBellary/lerna-design-system/compare/@mansoorbashabellary/mds-tabs@1.0.3...@mansoorbashabellary/mds-tabs@1.0.4) (2019-07-30)
+
+
+### Features
+
+* **tabs:** update package ([61804d0](https://github.com/MansoorBashaBellary/lerna-design-system/commit/61804d0))
+
+
+
+
+
 ## [1.0.3](https://github.com/MansoorBashaBellary/lerna-design-system/compare/@mansoorbashabellary/mds-tabs@1.0.2...@mansoorbashabellary/mds-tabs@1.0.3) (2019-07-30)
 
 
