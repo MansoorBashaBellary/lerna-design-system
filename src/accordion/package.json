@@ -1,6 +1,6 @@
 {
   "name": "@mansoorbashabellary/mds-accordion",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "license": "UNLICENSED",
   "publishConfig": {
     "registry": "https://registry.npmjs.org",
@@ -29,7 +29,7 @@
   "main": "./dist/main.js",
   "module": "./src/index.js",
   "devDependencies": {
-    "@mansoorbashabellary/mds-tabs": "^1.0.10",
+    "@mansoorbashabellary/mds-tabs": "^1.0.11",
     "@vue/cli-plugin-babel": "^3.8.0",
     "@vue/cli-plugin-eslint": "^3.8.0",
     "@vue/cli-service": "^3.8.0",
