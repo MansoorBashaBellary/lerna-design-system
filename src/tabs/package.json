@@ -22,7 +22,6 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
-    "tiny-slider": "2.9.2",
     "vue": "^2.6.10"
   },
   "main": "src/index.js",
