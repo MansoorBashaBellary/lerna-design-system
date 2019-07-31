@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.8](https://github.com/MansoorBashaBellary/lerna-design-system/compare/@mansoorbashabellary/mds-accordion@1.0.7...@mansoorbashabellary/mds-accordion@1.0.8) (2019-07-31)
+
+
+### Features
+
+* **accordion:** adding main fild ([1b11160](https://github.com/MansoorBashaBellary/lerna-design-system/commit/1b11160))
+
+
+
+
+
 ## [1.0.7](https://github.com/MansoorBashaBellary/lerna-design-system/compare/@mansoorbashabellary/mds-accordion@1.0.6...@mansoorbashabellary/mds-accordion@1.0.7) (2019-07-31)
 
 
