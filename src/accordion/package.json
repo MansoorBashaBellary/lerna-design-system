@@ -25,7 +25,8 @@
     "core-js": "^2.6.5",
     "vue": "^2.6.10"
   },
-  "main": "./src/index.js",
+  "main": "./dist/main.js",
+  "module": "./src/index.js",
   "devDependencies": {
     "@mansoorbashabellary/mds-tabs": "^1.0.6",
     "@vue/cli-plugin-babel": "^3.8.0",
