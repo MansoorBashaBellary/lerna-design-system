@@ -1,5 +1,6 @@
 import '@mansoorbashabellary/mds-components/src/polyfill/closest';
 import uniqueId from "lodash/uniqueId";
+import 'intersection-observer';
 
 const TRIGGER_WRAPPER_CLASS = "trigger-wrapper";
 const TRIGGER_CLASS = "trigger";
