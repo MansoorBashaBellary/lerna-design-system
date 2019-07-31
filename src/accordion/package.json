@@ -1,6 +1,6 @@
 {
   "name": "@mansoorbashabellary/mds-accordion",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "license": "UNLICENSED",
   "publishConfig": {
     "registry": "https://registry.npmjs.org",
@@ -22,14 +22,14 @@
     "url": "https://github.com/MansoorBashaBellary/lerna-design-system/issues"
   },
   "dependencies": {
-    "@mansoorbashabellary/mds-components": "1.0.15",
+    "@mansoorbashabellary/mds-components": "^1.0.16",
     "core-js": "^2.6.5",
     "vue": "^2.6.10"
   },
   "main": "./dist/main.js",
   "module": "./src/index.js",
   "devDependencies": {
-    "@mansoorbashabellary/mds-tabs": "^1.0.6",
+    "@mansoorbashabellary/mds-tabs": "^1.0.7",
     "@vue/cli-plugin-babel": "^3.8.0",
     "@vue/cli-plugin-eslint": "^3.8.0",
     "@vue/cli-service": "^3.8.0",
