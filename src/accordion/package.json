@@ -1,6 +1,6 @@
 {
   "name": "@mansoorbashabellary/mds-accordion",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "license": "UNLICENSED",
   "publishConfig": {
     "registry": "https://registry.npmjs.org",
@@ -24,8 +24,8 @@
   "dependencies": {
     "@mansoorbashabellary/mds-components": "^1.0.16",
     "core-js": "^2.6.5",
-    "vue": "^2.6.10",
-    "intersection-observer": "0.7.0"
+    "intersection-observer": "0.7.0",
+    "vue": "^2.6.10"
   },
   "main": "./dist/main.js",
   "module": "./src/index.js",
