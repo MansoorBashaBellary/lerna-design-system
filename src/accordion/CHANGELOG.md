@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.7](https://github.com/MansoorBashaBellary/lerna-design-system/compare/@mansoorbashabellary/mds-accordion@1.0.6...@mansoorbashabellary/mds-accordion@1.0.7) (2019-07-31)
+
+
+### Features
+
+* **accordion:** adding polyfills ([a3aee8c](https://github.com/MansoorBashaBellary/lerna-design-system/commit/a3aee8c))
+
+
+
+
+
 ## [1.0.6](https://github.com/MansoorBashaBellary/lerna-design-system/compare/@mansoorbashabellary/mds-accordion@1.0.5...@mansoorbashabellary/mds-accordion@1.0.6) (2019-07-31)
 
 **Note:** Version bump only for package @mansoorbashabellary/mds-accordion
