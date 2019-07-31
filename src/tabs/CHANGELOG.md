@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.6](https://github.com/MansoorBashaBellary/lerna-design-system/compare/@mansoorbashabellary/mds-tabs@1.0.5...@mansoorbashabellary/mds-tabs@1.0.6) (2019-07-31)
+
+
+### Features
+
+* **tabs:** add element resize detector ([f74c48f](https://github.com/MansoorBashaBellary/lerna-design-system/commit/f74c48f))
+
+
+
+
+
 ## [1.0.5](https://github.com/MansoorBashaBellary/lerna-design-system/compare/@mansoorbashabellary/mds-tabs@1.0.4...@mansoorbashabellary/mds-tabs@1.0.5) (2019-07-30)
 
 

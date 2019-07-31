@@ -1,6 +1,6 @@
 {
   "name": "@mansoorbashabellary/mds-tabs",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "license": "UNLICENSED",
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -23,9 +23,9 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "element-resize-detector": "1.1.15",
     "tiny-slider": "2.9.2",
-    "vue": "^2.6.10",
-    "element-resize-detector": "1.1.15"
+    "vue": "^2.6.10"
   },
   "main": "src/index.js",
   "devDependencies": {
