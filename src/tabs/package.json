@@ -1,6 +1,6 @@
 {
   "name": "@mansoorbashabellary/mds-tabs",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "license": "UNLICENSED",
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -21,7 +21,7 @@
     "url": "https://github.com/MansoorBashaBellary/lerna-design-system/issues"
   },
   "dependencies": {
-    "@mansoorbashabellary/mds-components": "^1.0.17",
+    "@mansoorbashabellary/mds-components": "^1.0.18",
     "core-js": "^2.6.5",
     "element-resize-detector": "1.1.15",
     "tiny-slider": "2.9.2",
