@@ -1,6 +1,6 @@
 {
   "name": "@mansoorbashabellary/mds-components",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "license": "UNLICENSED",
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@mansoorbashabellary/mds-accordion": "^1.0.15",
-    "@mansoorbashabellary/mds-tabs": "^1.0.11",
+    "@mansoorbashabellary/mds-tabs": "^1.0.12",
     "core-js": "^2.6.5",
     "design-system": "2.5.0",
     "vue": "^2.6.10"
