@@ -1,4 +1,4 @@
-import '../../app/src/polyfill/closest';
+import '@mansoorbashabellary/mds-components/src/polyfill/closest';
 import uniqueId from "lodash/uniqueId";
 
 const TRIGGER_WRAPPER_CLASS = "trigger-wrapper";

@@ -22,6 +22,7 @@
     "url": "https://github.com/MansoorBashaBellary/lerna-design-system/issues"
   },
   "dependencies": {
+    "@mansoorbashabellary/mds-components": "1.0.15",
     "core-js": "^2.6.5",
     "vue": "^2.6.10"
   },
