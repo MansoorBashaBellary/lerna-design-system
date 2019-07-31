@@ -1,4 +1,3 @@
-import '@mansoorbashabellary/mds-components/src/polyfill/closest';
 import uniqueId from "lodash/uniqueId";
 import 'intersection-observer';
 

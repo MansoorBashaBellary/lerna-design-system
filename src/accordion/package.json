@@ -22,7 +22,6 @@
     "url": "https://github.com/MansoorBashaBellary/lerna-design-system/issues"
   },
   "dependencies": {
-    "@mansoorbashabellary/mds-components": "^1.0.18",
     "core-js": "^2.6.5",
     "intersection-observer": "0.7.0",
     "vue": "^2.6.10"
