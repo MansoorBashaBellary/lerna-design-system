@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.16-alpha.1](https://github.com/MansoorBashaBellary/lerna-design-system/compare/@mansoorbashabellary/mds-accordion@1.0.16-alpha.0...@mansoorbashabellary/mds-accordion@1.0.16-alpha.1) (2021-01-18)
+
+
+### Features
+
+* update ([8034db4](https://github.com/MansoorBashaBellary/lerna-design-system/commit/8034db4))
+
+
+
+
+
 ## [1.0.16-alpha.0](https://github.com/MansoorBashaBellary/lerna-design-system/compare/@mansoorbashabellary/mds-accordion@1.0.15...@mansoorbashabellary/mds-accordion@1.0.16-alpha.0) (2019-08-30)
 
 

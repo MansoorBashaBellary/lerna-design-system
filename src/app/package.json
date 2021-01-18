@@ -1,6 +1,6 @@
 {
   "name": "@mansoorbashabellary/mds-components",
-  "version": "1.0.24-alpha.0",
+  "version": "1.0.24-alpha.1",
   "license": "UNLICENSED",
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -22,7 +22,7 @@
     "url": "https://github.com/MansoorBashaBellary/lerna-design-system/issues"
   },
   "dependencies": {
-    "@mansoorbashabellary/mds-accordion": "^1.0.16-alpha.0",
+    "@mansoorbashabellary/mds-accordion": "^1.0.16-alpha.1",
     "core-js": "^2.6.5",
     "design-system": "2.5.0",
     "vue": "^2.6.10"
